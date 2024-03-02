@@ -1,0 +1,810 @@
+@media (max-width: 1878px) {
+  .workers-photo {
+    display: none;
+  }
+  .num-workers-text {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 1710px) {
+  .project-btn {
+    width: 1000px;
+  }
+  .max-wiwi {
+    display: none;
+  }
+  .media-city {
+    margin-top: 360px;
+  }
+  .nipsi-iphone {
+    display: none;
+  }
+  .nipsi {
+    margin-top: 1250px;
+    margin-left: 30%;
+  }
+  .nipsi-qr-main {
+    margin-left: 400px;
+  }
+  .agency {
+    top: 3900px;
+    margin-left: -200px;
+  }
+  .agency-qr {
+    margin-left: 80% !important;
+  }
+  .line-2 {
+    display: none;
+  }
+  .well {
+    top: 3200px;
+  }
+  .cryptopia {
+    top: 3300px;
+  }
+  .bankirm {
+    top: 3600px;
+  }
+  .luchee {
+    top: 3800px;
+  }
+  .smile-you {
+    top: 3900px;
+  }
+  .flowri {
+    top: 4200px;
+  }
+  .beauty-way {
+    top: 4300px;
+  }
+  .user-bank {
+    top: 4500px;
+  }
+  .super-clean {
+    top: 4800px;
+  }
+  .pingvi {
+    top: 4900px;
+  }
+  .taxim {
+    top: 5100px;
+  }
+  .curierim {
+    top: 5200px;
+  }
+  .dododo {
+    top: 5400px;
+  }
+  .psychology-course {
+    top: 5600px;
+  }
+  .bunkers {
+    top: 5650px;
+  }
+  .bunkers-iphone {
+    margin-left: 850px !important;
+  }
+  .electrocircle {
+    top: 5800px;
+  }
+  .number {
+    top: 6100px;
+  }
+  .our-work {
+    top: 6400px;
+  }
+  .our-work-qr {
+    margin-top: -100px;
+  }
+  .bottom-section {
+    top: 6800px;
+  }
+  .modules {
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+}
+
+@media (max-width: 1650px) {
+  .agency-iphone {
+    display: none;
+  }
+  .academy-text {
+    margin-left: 20%;
+  }
+  .academy-iphone {
+    display: none;
+  }
+}
+
+@media (max-width: 1540px) {
+  .max-wiwi-black {
+    display: none;
+  }
+  .wiwi-text {
+    padding-top: 0px !important;
+    margin-top: 450px !important;
+    margin-left: 30%;
+  }
+  .main-text {
+    display: flex;
+    z-index: 2;
+    margin-top: -250px;
+    padding-left: 20px;
+    margin-left: 50px;
+  }
+  .well-qr {
+    margin-left: 150px;
+  }
+  .bankirm-iphone {
+    margin-left: -100px;
+  }
+  .figma-block {
+    display: none;
+  }
+  .luchee-iphone {
+    display: none;
+  }
+  .luchee-text {
+    margin-left: 450px;
+  }
+  .line-5 {
+    display: none;
+  }
+  .smile-you-text-2 {
+    margin-top: 0 !important;
+  }
+  .bunkers-iphone {
+    margin-left: 650px !important;
+  }
+  .bunkers-text {
+    padding-right: 270px !important;
+  }
+}
+
+@media (max-width: 1320px) {
+  .wiwi-text {
+    padding-top: 0px !important;
+    margin-top: 450px !important;
+    margin-left: 30%;
+  }
+  .main-text {
+    display: block;
+    z-index: 2;
+    margin-top: -250px;
+    padding-left: 20px;
+    margin-left: 50px;
+  }
+  .well {
+    top: 3300px;
+  }
+  .nipsi {
+    margin-top: 1650px;
+    margin-left: 10%;
+  }
+  .nipsi-text {
+    margin-top: 50px;
+    margin-left: 40px;
+  }
+  .nipsi-qr-main {
+    margin-left: 200px;
+  }
+  .agency {
+    top: 4200px;
+  }
+  .agency-qr {
+    margin-top: -120px !important;
+    width: 100px;
+    height: 100px;
+    z-index: 200;
+    margin-left: 87% !important;
+  }
+  .figma-block {
+    display: none;
+  }
+  .beauty-way {
+    margin-left: 300px;
+    margin-bottom: 100px;
+  }
+  .flowri-iphone {
+    display: none;
+  }
+  .line-6 {
+    display: none;
+  }
+  .line-7 {
+    display: none;
+  }
+  .flowri-qr {
+    margin-top: 100px;
+  }
+  .user-bank-iphone {
+    display: none;
+  }
+  .user-bank-text-2 {
+    margin-left: 100px;
+  }
+  .user-bank {
+    margin-left: 300px;
+  }
+  .user-bank-text {
+    padding-right: 100px;
+  }
+  .user-bank-figma {
+    margin-top: -120px;
+    margin-left: 75%;
+    width: 200px;
+  }
+  .pingvi {
+    margin-left: 36%;
+  }
+  .pingvi-text {
+    padding-right: 60px !important;
+  }
+  .pingvi-iphone {
+    display: none;
+  }
+  .pingvi-stores {
+    margin-left: 400px;
+    margin-top: -40px;
+  }
+  .pingvi-header {
+    margin-left: 300px !important;
+  }
+  .curierim {
+    margin-left: 430px;
+  }
+  .curierim-header {
+    margin-left: 200px;
+  }
+  .curierim-stores {
+    margin-left: 400px;
+    margin-top: -50px;
+  }
+  .dododo-iphone {
+    display: none;
+  }
+  .dododo-text {
+    padding-right: 80px !important;
+  }
+  .bunkers-iphone {
+    display: none;
+  }
+  .bunkers-text {
+    padding-right: 80px !important;
+  }
+  .line-8 {
+    display: none;
+  }
+  .number-macbook {
+    display: none;
+  }
+  .number-qr {
+    margin-left: 80%;
+  }
+  .our-work-qr {
+    margin-left: 70%;
+  }
+  .modules {
+    gap: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 1180px) {
+  .wiwi-text {
+    display: none;
+  }
+  .main-text {
+    display: block;
+    z-index: 2;
+    margin-top: -250px;
+    padding-left: 20px;
+    margin-left: 0 auto;
+    text-align: center;
+    align-items: center;
+  }
+  .option-container {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  .option {
+    max-width: 400px;
+  }
+  .options-left {
+    margin-right: 100px;
+  }
+  .agency {
+    top: 4400px;
+  }
+  .well {
+    top: 3350px;
+  }
+  .hubus-citate {
+    margin-left: 40px;
+  }
+  .qr-block-1 {
+    margin-top: 400px;
+  }
+  .bankirm-iphone {
+    display: none;
+  }
+  .bankirm-text {
+    padding-left: 80px !important;
+  }
+  .well-macbook {
+    display: none;
+  }
+  .well-qr {
+    margin-left: 40px;
+  }
+  .cryptopia-iphone {
+    display: none;
+  }
+  .line-4 {
+    display: none;
+  }
+  .luchee {
+    margin-top: -100px;
+    margin-left: -10%;
+    margin-bottom: 100px;
+  }
+  .luchee-stores {
+    margin-top: 350px !important;
+    margin-left: 30%;
+  }
+  .smile-you-qr {
+    margin-top: -40px;
+    margin-left: 550px;
+  }
+  .flowri-qr {
+    margin-left: 45%;
+  }
+  .super-clean-stores {
+    margin-left: -55% !important;
+  }
+  .pingvi-stores {
+    margin-left: 45%;
+  }
+  .curierim-stores {
+    margin-left: 35%;
+  }
+  .bunkers {
+    margin-left: 400px;
+  }
+  .bottom-macbook {
+    display: none;
+  }
+  .modules {
+    display: none;
+  }
+}
+
+@media (max-width: 1020px) {
+  .main {
+    display: none;
+  }
+  .project-btn {
+    margin-top: 40px;
+  }
+  .businesses {
+    font-size: 100px;
+  }
+  .number-businesses {
+    font-size: 100px;
+    margin-top: -130px;
+  }
+  .option-container {
+    display: block;
+    margin-left: 50px;
+    margin-right: 30px;
+  }
+  .option {
+    max-width: 800px;
+  }
+  .options-left {
+    margin-right: 100px;
+  }
+  .academy-text {
+    padding-left: 150px;
+  }
+  .well {
+    top: 3500px;
+  }
+  .cryptopia {
+    top: 3450px;
+  }
+  .bankirm {
+    top: 3650px;
+  }
+  .smile-you-qr {
+    margin-top: 30px;
+  }
+  .user-bank-figma {
+    display: none;
+  }
+  .user-bank-text-2 {
+    margin-left: 5%;
+  }
+  .super-clean-iphone {
+    display: none;
+  }
+  .super-clean-text {
+    margin-left: -65%;
+    margin-right: 40px;
+  }
+  .super-clean-stores {
+    margin-left: -80% !important;
+  }
+  .pingvi {
+    margin-left: 35%;
+    margin-right: 10px;
+    margin-bottom: 40px;
+  }
+  .pingvi-stores {
+    margin-left: 18% !important;
+  }
+  .taxim {
+    margin-left: 10%;
+  }
+  .taxim-iphone {
+    display: none;
+  }
+  .curierim {
+    margin-left: 27%;
+  }
+  .psychology-course-iphone {
+    display: none;
+  }
+  .psychology-course {
+    margin-left: 6%;
+    margin-right: 15px;
+  }
+  .bunkers {
+    margin-left: 25%;
+    margin-right: 15px;
+  }
+  .our-work-qr {
+    margin-left: 45%;
+    margin-top: -50px;
+  }
+  .smile-you-iphone {
+    display: none;
+  }
+  .smile-you-qr {
+    margin-left: 20%;
+  }
+  .smile-you-text-2 {
+    margin-left: 35% !important;
+    margin-right: 30px;
+  }
+  .luchee {
+    margin-right: 30px !important;
+    margin-left: -15%;
+  }
+  .luchee-stores {
+    margin-top: 430px !important;
+    margin-left: 50%;
+  }
+}
+
+@media (max-width: 900px) {
+  .project-btn {
+    width: 400px;
+  }
+  .businesses {
+    font-size: 50px;
+  }
+  .number-businesses {
+    font-size: 50px;
+    margin-top: -130px;
+  }
+  .cryptopia {
+    top: 3520px;
+    z-index: 200;
+  }
+  .well {
+    top: 3570px;
+  }
+  .flowri {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 70px;
+  }
+  .flowri-qr {
+    margin-top: -70px;
+    margin-left: 15%;
+  }
+  .user-bank-text-2 {
+    padding-right: 65px !important;
+    margin-left: 5%;
+  }
+  .user-bank-text {
+    margin-right: 20px;
+  }
+  .super-clean-stores {
+    margin-top: -60px;
+    margin-left: -40% !important;
+  }
+  .super-clean {
+    margin-bottom: 200px;
+    margin-left: 42%;
+  }
+  .pingvi {
+    margin-left: -40px;
+    margin-right: 30px;
+  }
+  .pingvi-header {
+    margin-left: 150px !important;
+  }
+  .taxim-header {
+    margin-left: 40%;
+  }
+  .taxim-stores {
+    margin-left: -5%;
+  }
+  .curierim {
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  .dododo {
+    margin-right: 30px;
+  }
+  .psychology-course {
+    margin-left: 3%;
+    margin-bottom: 50px;
+  }
+  .bunkers {
+    margin-left: 20%;
+  }
+  .bunkers-text {
+    margin-left: 100px;
+    padding: 60px !important;
+  }
+  .electrocircle-text {
+    padding: 65px !important;
+    margin-right: 20px;
+  }
+  .number {
+    margin-right: 30px;
+  }
+  .our-work {
+    margin-left: 15%;
+    margin-right: 20px;
+  }
+  .our-work-header {
+    font-size: 32px;
+    padding: 40px;
+    margin-top: -180px;
+  }
+  .our-work-text {
+    padding-right: 60px !important;
+    margin-top: 40px;
+  }
+  .our-work-iphone {
+    display: none;
+  }
+  .line-9 {
+    display: none;
+  }
+  .num-workers {
+    font-size: 250px;
+  }
+  .line-3 {
+    display: none;
+  }
+  .well-qr {
+    margin-top: -50px;
+  }
+  .well-text {
+    margin-right: 30px;
+  }
+  .well-text-2 {
+    margin-top: 200px;
+    margin-left: 6%;
+    margin-right: 30px;
+  }
+  p {
+    font-size: 26px !important;
+  }
+  .bunkers-text {
+    font-size: 26px;
+  }
+  .user-bank-text-2 {
+    font-size: 26px;
+  }
+  h4 {
+    font-size: 32px !important;
+  }
+  .luchee {
+    margin-left: -50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .smile-you-text-2 {
+    margin-left: 8% !important;
+  }
+  .smile-you-qr {
+    margin-top: -20px;
+  }
+  .user-bank-text-2 {
+    margin-left: -65%;
+  }
+  .curierim {
+    margin-top: 300px;
+    margin-bottom: 200px;
+    margin-left: 0%;
+  }
+  .curierim-header {
+    margin-top: -100px;
+  }
+  .dododo {
+    margin-left: 13%;
+  }
+  .bunkers {
+    margin-left: -10%;
+    margin-bottom: 150px;
+  }
+  .bunkers-header {
+    margin-left: 180px !important;
+  }
+  .bunkers-qr {
+    margin-left: 20%;
+    margin-top: -50px;
+  }
+  .electrocircle-img {
+    display: none;
+  }
+  .luchee-stores {
+    gap: 100px;
+  }
+}
+
+@media (max-width: 550px) {
+  h4 {
+    font-size: 24px !important;
+  }
+  p {
+    font-size: 20px !important;
+  }
+  .luchee {
+    margin-left: -90%;
+    margin-right: 10px !important;
+    margin-bottom: 200px !important;
+  }
+  .luchee-stores {
+    margin-top: 800px !important;
+    margin-left: 48%;
+  }
+  .smile-you {
+    margin-bottom: 100px !important;
+  }
+  .smile-you-text {
+    margin-right: 30px;
+  }
+  .agency-text {
+    padding: 40px;
+  }
+  .agency-qr {
+    margin-left: 10% !important;
+  }
+  .well {
+    top: 3800px;
+  }
+  .well-text {
+    padding: 40px;
+  }
+  .well-qr {
+    margin-top: -30px;
+  }
+  .cryptopia {
+    top: 3750px;
+  }
+  .cryptopia-text {
+    padding: 40px;
+  }
+  .user-bank-text {
+    padding: 60px;
+  }
+  .user-bank-text-2 {
+    margin-left: -200%;
+  }
+  .super-clean-header {
+    font-size: 28px;
+    margin-left: -20%;
+  }
+  .curierim-stores {
+    margin-left: 11%;
+  }
+  .dododo {
+    margin-left: 10% !important;
+  }
+  .bunkers-header {
+    margin-left: 25% !important;
+    margin-top: -80px;
+  }
+  .electrocircle-header {
+    margin-left: 7%;
+  }
+  .num-workers {
+    font-size: 200px;
+  }
+  .buy-btn {
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+  .luchee-text {
+    padding: 40px;
+  }
+  .luchee-stores {
+    margin-top: 500px !important;
+  }
+  .bankirm-text {
+    padding: 40px !important;
+  }
+  .cryptopia {
+    margin-bottom: 100px;
+  }
+  .well {
+    margin-bottom: 100px;
+  }
+  .user-bank-text {
+    padding: 60px;
+  }
+  .super-clean-stores {
+    gap: 30px;
+    margin-left: -60% !important;
+    padding: 20px !important;
+    max-width: 330px;
+  }
+  .pingvi-stores {
+    gap: 30px;
+    max-width: 300px;
+    padding: 20px;
+  }
+  .curierim-stores {
+    gap: 30px;
+  }
+  .dododo-text {
+    padding: 60px !important;
+  }
+  .psychology-course-text {
+    padding: 60px !important;
+  }
+  .bunkers-text {
+    font-size: 20px;
+  }
+  .bunkers-header {
+    font-size: 24px;
+  }
+  .academy-images {
+    background: #1f1f1f;
+    border-radius: 70px;
+    margin-top: 500px;
+    margin-bottom: 200px;
+  }
+  .academy-text {
+    padding: 40px !important;
+    text-align: center;
+    margin-left: 0;
+  }
+  .nipsi {
+    top: 3100px;
+    margin-left: 0;
+  }
+  .nipsi-text {
+    padding-right: 100px !important;
+  }
+  .nipsi-qr-main {
+    margin-left: 10%;
+  }
+  .agency {
+    top: 4550px;
+  }
+  .user-bank-text-2 {
+    font-size: 20px;
+  }
+}
