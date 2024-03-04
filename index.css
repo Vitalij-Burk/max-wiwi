@@ -27,6 +27,7 @@ body {
   font-size: 28px;
   background: #090909;
   color: #ffffff;
+
 }
 
 a {
@@ -281,7 +282,7 @@ ul {
   border: none;
   border-radius: 70px;
   max-width: 900px;
-  max-height: 1000px;
+  max-height: 1200px;
   background: black;
   padding: 60px;
   margin-left: 300px;
@@ -1143,6 +1144,7 @@ ul {
   top: 6300px;
   font-family: "Futura", sans-serif;
   text-align: center;
+  align-items: center;
 }
 
 .workers {

@@ -134,6 +134,12 @@
     padding-left: 20px;
     margin-left: 50px;
   }
+  .agency {
+    top: 3700px;
+  }
+  .well {
+    top: 3200px;
+  }
   .well-qr {
     margin-left: 150px;
   }
@@ -177,7 +183,8 @@
     margin-left: 50px;
   }
   .well {
-    top: 3300px;
+    top: 3400px;
+    margin-bottom: 150px;
   }
   .nipsi {
     margin-top: 1650px;
@@ -191,7 +198,7 @@
     margin-left: 200px;
   }
   .agency {
-    top: 4200px;
+    top: 3900px;
   }
   .agency-qr {
     margin-top: -120px !important;
@@ -317,10 +324,10 @@
     margin-right: 100px;
   }
   .agency {
-    top: 4400px;
+    top: 3850px;
   }
   .well {
-    top: 3350px;
+    top: 3450px;
   }
   .hubus-citate {
     margin-left: 40px;
@@ -380,6 +387,13 @@
   .modules {
     display: none;
   }
+  .num-workers {
+    font-size: 350px;
+  }
+  .buy-btn {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
 }
 
 @media (max-width: 1020px) {
@@ -410,8 +424,11 @@
   .academy-text {
     padding-left: 150px;
   }
-  .well {
+  .agency {
     top: 3500px;
+  }
+  .well {
+    top: 3600px;
   }
   .cryptopia {
     top: 3450px;
@@ -505,8 +522,12 @@
     top: 3520px;
     z-index: 200;
   }
+  .agency {
+    top: 3200px;
+  }
   .well {
-    top: 3570px;
+    top: 3400px;
+    margin-bottom: -50px;
   }
   .flowri {
     margin-left: 5%;
@@ -630,6 +651,16 @@
   .smile-you-qr {
     margin-top: -20px;
   }
+  .nipsi {
+    top: 2600px;
+  }
+  .agency {
+    top: 3450px;
+  }
+  .well {
+    top: 3700px;
+    margin-bottom: 200px;
+  }
   .user-bank-text-2 {
     margin-left: -65%;
   }
@@ -685,6 +716,9 @@
   .smile-you-text {
     margin-right: 30px;
   }
+  .agency {
+    top: 4300px;
+  }
   .agency-text {
     padding: 40px;
   }
@@ -692,7 +726,8 @@
     margin-left: 10% !important;
   }
   .well {
-    top: 3800px;
+    top: 4450px;
+    margin-bottom: 1600px;
   }
   .well-text {
     padding: 40px;
@@ -701,10 +736,13 @@
     margin-top: -30px;
   }
   .cryptopia {
-    top: 3750px;
+    top: 4350px;
   }
   .cryptopia-text {
     padding: 40px;
+  }
+  .bankirm {
+    top: 4300px;
   }
   .user-bank-text {
     padding: 60px;
@@ -736,14 +774,27 @@
     padding-left: 120px;
     padding-right: 120px;
   }
+  .luchee {
+    top: 4450px;
+  }
   .luchee-text {
     padding: 40px;
   }
   .luchee-stores {
     margin-top: 500px !important;
   }
+  .smile-you {
+    top: 4450px;
+  }
+  .smile-you-text {
+    padding-top: 70px !important;
+  }
   .bankirm-text {
     padding: 40px !important;
+  }
+  .flowri {
+    top: 4600px;
+    margin-bottom: 500px;
   }
   .cryptopia {
     margin-bottom: 100px;
@@ -791,20 +842,36 @@
     text-align: center;
     margin-left: 0;
   }
+  .academy-images {
+    top: 70px;
+  }
+  .media-city {
+    padding-right: 75px !important;
+  }
   .nipsi {
     top: 3100px;
     margin-left: 0;
   }
   .nipsi-text {
-    padding-right: 100px !important;
+    padding: 40px !important;
   }
   .nipsi-qr-main {
     margin-left: 10%;
   }
-  .agency {
-    top: 4550px;
-  }
   .user-bank-text-2 {
     font-size: 20px;
+  }
+  .super-clean-text {
+    padding: 70px;
+  }
+  .num-workers {
+    font-size: 150px;
+  }
+  .number-qr {
+    margin-left: 40%;
+  }
+  .electrocircle-qr {
+    margin-left: 10%;
+    margin-top: -40px;
   }
 }
